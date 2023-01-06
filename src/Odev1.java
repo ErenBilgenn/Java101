@@ -31,6 +31,9 @@ public class Odev1 {
 
         String basari = kosul1 ? "Sınıfı Geçti" : "Sınıfta kaldı";
         System.out.println(basari);
+        
+        
+       
 
 
 
