@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class Odev2 {
     public static void main(String[] args) {
-        double fiyat , kdv = 0.18;
+        double fiyat ;
 
         Scanner inp = new Scanner(System.in);
         System.out.print("Ürünün fiyatını giriniz : ");
