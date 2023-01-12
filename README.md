@@ -15,3 +15,7 @@ Patika.Dev eğitimlerinden Temel Kavramlar Ve Değişkenler eğitimindeki ödevl
 [Manav Kasa Programı Ödevi Linki](https://app.patika.dev/courses/java101/odev-manav-kasa)
 
 [Patika.dev Profile](https://app.patika.dev/ecb)
+
+# Koşullu İfadeler ve Kod Blokları
+
+Patika.Dev eğitimlerinden Koşullu İfadeler ve Kod Blokları eğitimindeki ödevlere ait repodur.
