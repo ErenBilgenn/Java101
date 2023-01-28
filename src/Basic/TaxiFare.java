@@ -1,6 +1,8 @@
+package Basic;
+
 import java.util.Scanner;
 
-public class Odev4 {
+public class TaxiFare {
     public static void main(String[] args) {
         int km;
         Scanner inp = new Scanner(System.in);

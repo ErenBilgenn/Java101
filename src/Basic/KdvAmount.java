@@ -1,5 +1,7 @@
+package Basic;
+
 import java.util.Scanner;
-public class Odev2 {
+public class KdvAmount {
     public static void main(String[] args) {
         double fiyat ;
 

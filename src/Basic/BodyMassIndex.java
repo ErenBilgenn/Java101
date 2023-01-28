@@ -1,6 +1,8 @@
+package Basic;
+
 import java.util.Scanner;
 
-public class Odev6 {
+public class BodyMassIndex {
     public static void main(String[] args) {
         double boy;
         int kilo;

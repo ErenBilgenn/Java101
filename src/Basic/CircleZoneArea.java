@@ -1,6 +1,8 @@
+package Basic;
+
 import java.util.Scanner;
 
-public class Odev5 {
+public class CircleZoneArea {
     public static void main(String[] args) {
         int r;
         double 𝛼,pi =3.14;

@@ -1,6 +1,8 @@
+package Basic;
+
 import java.util.Scanner;
 
-public class Odev7 {
+public class GroceryStore {
     public static void main(String[] args) {
         int armut, elma, domates, muz, patlican;
 

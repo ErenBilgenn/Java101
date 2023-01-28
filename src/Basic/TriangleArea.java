@@ -1,5 +1,7 @@
+package Basic;
+
 import java.util.Scanner;
-public class Odev3 {
+public class TriangleArea {
     public static void main(String[] args) {
         double a, b, c, alan;
 

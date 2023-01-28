@@ -1,5 +1,7 @@
+package Basic;
+
 import java.util.Scanner;
-public class Odev1 {
+public class GradeAverage {
     public static void main(String[] args) {
 
         int mat, fizik, kimya, turkce, tarih, muzik;
