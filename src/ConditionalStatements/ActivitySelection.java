@@ -1,6 +1,8 @@
+package ConditionalStatements;
+
 import java.util.Scanner;
 
-public class Odev11 {
+public class ActivitySelection {
     public static void main(String[] args) {
         int heat;
 

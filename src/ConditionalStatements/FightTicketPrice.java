@@ -1,6 +1,8 @@
+package ConditionalStatements;
+
 import java.util.Scanner;
 
-public class Odev14 {
+public class FightTicketPrice {
     public static void main(String[] args) {
         int mesafe, yas, tip;
         Scanner inp = new Scanner(System.in);

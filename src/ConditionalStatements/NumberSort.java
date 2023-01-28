@@ -1,6 +1,8 @@
+package ConditionalStatements;
+
 import java.util.Scanner;
 
-public class Odev12 {
+public class NumberSort {
     public static void main(String[] args) {
         int a,b,c;
 

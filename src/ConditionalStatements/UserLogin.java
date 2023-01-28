@@ -1,6 +1,8 @@
+package ConditionalStatements;
+
 import java.util.Scanner;
 
-public class Odev9 {
+public class UserLogin {
     public static void main(String[] args) {
         String userName, password, newpassword;
 

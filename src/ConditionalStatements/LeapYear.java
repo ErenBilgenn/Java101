@@ -1,6 +1,8 @@
+package ConditionalStatements;
+
 import java.util.Scanner;
 
-public class Odev16 {
+public class LeapYear {
     public static void main(String[] args) {
         int yil;
         Scanner inp = new Scanner(System.in);

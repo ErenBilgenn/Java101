@@ -1,6 +1,8 @@
+package ConditionalStatements;
+
 import java.util.Scanner;
 
-public class Odev15 {
+public class ChineseZodiac {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
 
@@ -49,7 +51,8 @@ public class Odev15 {
             case 11:
                 burc = "Koyun";
                 break;
-        }System.out.print("Çin Zodyağı Burcunuz : "+burc);
+        }
+        System.out.print("Çin Zodyağı Burcunuz : " + burc);
 
 
     }

@@ -1,6 +1,8 @@
+package ConditionalStatements;
+
 import java.util.Scanner;
 
-public class Odev13 {
+public class HoroscopeFinder {
     public static void main(String[] args) {
         int month,day;
         String burc = "";

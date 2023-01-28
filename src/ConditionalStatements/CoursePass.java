@@ -1,6 +1,8 @@
+package ConditionalStatements;
+
 import java.util.Scanner;
 
-public class Odev10 {
+public class CoursePass {
     public static void main(String[] args) {
         int mat, fizik,turkce,kimya,muzik;
         double giris = 0;
