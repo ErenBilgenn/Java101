@@ -1,6 +1,8 @@
+package Loops;
+
 import java.util.Scanner;
 
-public class Odev18 {
+public class SumOfEvenAndMultipleOf4Numbers {
     public static void main(String[] args) {
         int n, total = 0;
         Scanner input = new Scanner(System.in);

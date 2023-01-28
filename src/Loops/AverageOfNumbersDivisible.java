@@ -1,6 +1,8 @@
+package Loops;
+
 import java.util.Scanner;
 
-public class Odev17 {
+public class AverageOfNumbersDivisible {
     public static void main(String[] args) {
         int k,toplam = 0,bolen = 0;
         Scanner inp = new Scanner(System.in);

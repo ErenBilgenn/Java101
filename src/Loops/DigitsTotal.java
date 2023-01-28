@@ -1,6 +1,8 @@
+package Loops;
+
 import java.util.Scanner;
 
-public class Odev22 {
+public class DigitsTotal {
     public static void main(String[] args) {
         int number;
         Scanner inp = new Scanner(System.in);

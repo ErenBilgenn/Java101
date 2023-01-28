@@ -1,6 +1,8 @@
+package Loops;
+
 import java.util.Scanner;
 
-public class Odev21 {
+public class ExponentialNumber {
     public static void main(String[] args) {
         int a,b,total = 1;
         Scanner scan = new Scanner(System.in);

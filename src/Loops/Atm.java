@@ -1,6 +1,8 @@
+package Loops;
+
 import java.util.Scanner;
 
-public class Odev25 {
+public class Atm {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         String userName, password;

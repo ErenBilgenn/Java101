@@ -1,7 +1,8 @@
-import java.lang.annotation.ElementType;
+package Loops;
+
 import java.util.Scanner;
 
-public class Odev28 {
+public class PerfectNumber {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         System.out.print("Bir sayı giriniz : ");

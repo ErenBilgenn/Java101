@@ -1,6 +1,8 @@
+package Loops;
+
 import java.util.Scanner;
 
-public class Odev19 {
+public class PowerOf4Or5 {
     public static void main(String[] args) {
         int n;
         Scanner inp = new Scanner(System.in);

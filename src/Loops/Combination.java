@@ -1,6 +1,8 @@
+package Loops;
+
 import java.util.Scanner;
 
-public class Odev20 {
+public class Combination {
     public static void main(String[] args) {
         int n, total1 = 1,total2 =1,total3 = 1,r;
         Scanner scan = new Scanner(System.in);

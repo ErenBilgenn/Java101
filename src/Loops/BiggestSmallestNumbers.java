@@ -1,6 +1,8 @@
+package Loops;
+
 import java.util.Scanner;
 
-public class Odev27 {
+public class BiggestSmallestNumbers {
     public static void main(String[] args) {
         Scanner inp = new Scanner(System.in);
         System.out.print("Kaç tane sayı gireceksiniz : ");
