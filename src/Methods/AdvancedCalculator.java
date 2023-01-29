@@ -117,7 +117,7 @@ public class AdvancedCalculator {
                     rectangle(a,b);
                     break;
                 default:
-                    System.out.println("Geçersiz bir işlem girdiniz!");
+                    System.out.println("Geçersiz bir işlem girdiniz!") ;
             }
         }
         System.out.println("Güle Güle");
