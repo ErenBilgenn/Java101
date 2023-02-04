@@ -1,18 +1,20 @@
-# Temel Kavramlar Ve Değişkenler 
+# Basic Concepts and Variables
 
 Patika.Dev eğitimlerinden Temel Kavramlar Ve Değişkenler eğitimindeki ödevlere ait repodur.
 
-[Not Ortalaması Hesaplayan Program Ödevi Linki](https://app.patika.dev/courses/java101/pratik-not-ortalamasi)
+[GradeAverage](https://github.com/ErenBilgenn/Java101/blob/master/src/Basic/GradeAverage.java)
 
-[KDV Tutarı Hesaplayan Program Ödevi Linki](https://app.patika.dev/courses/java101/pratik-kdv-hesaplama)
+[KdvAmount](https://github.com/ErenBilgenn/Java101/blob/master/src/Basic/KdvAmount.java)
 
-[Dik Üçgende Hipotenüs Bulan Program Ödevi Linki](https://app.patika.dev/courses/java101/pratik-hipotenus-bulma)
+[TriangleArea](https://github.com/ErenBilgenn/Java101/blob/master/src/Basic/TriangleArea.java)
 
-[Dairenin Alanını ve Çevresini Bulan Program Ödevi Linki](https://app.patika.dev/courses/java101/pratik-daire-alan-cevre)
+[TaxiFare](https://github.com/ErenBilgenn/Java101/blob/master/src/Basic/TaxiFare.java)
 
-[Vücut Kitle İndeksi Hesaplayan Program Ödevi Linki](https://app.patika.dev/courses/java101/odev-vucut-kitle-hesaplama)
+[CircleZoneArea](https://github.com/ErenBilgenn/Java101/blob/master/src/Basic/CircleZoneArea.java)
 
-[Manav Kasa Programı Ödevi Linki](https://app.patika.dev/courses/java101/odev-manav-kasa)
+[BodyMassIndex](https://github.com/ErenBilgenn/Java101/blob/master/src/Basic/BodyMassIndex.java)
+
+[GroceryStore](https://github.com/ErenBilgenn/Java101/blob/master/src/Basic/GroceryStore.java)
 
 [Patika.dev Profile](https://app.patika.dev/ecb)
 
