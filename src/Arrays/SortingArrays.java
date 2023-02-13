@@ -12,11 +12,11 @@ public class SortingArrays {
         int n = inp.nextInt();
         int[] list = new int[n];
         System.out.println("Dizinin elemanlarını giriniz : ");
-        for (int i = 0;i < n;i++){
-            System.out.print((i+1)+ ". Elemanı : ");
+        for (int i = 0; i < n; i++) {
+            System.out.print((i + 1) + ". Elemanı : ");
             list[i] = inp.nextInt();
         }
         Arrays.sort(list);
-        System.out.print("Sıralama : "+Arrays.toString(list));
+        System.out.print("Sıralama : " + Arrays.toString(list));
     }
 }
