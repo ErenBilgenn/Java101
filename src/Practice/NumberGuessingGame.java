@@ -16,41 +16,41 @@ public class NumberGuessingGame {
         boolean isWin = false;
         boolean isWrong = false;
 
-        while (right < 5 ){
+        while (right < 5) {
             System.out.print("Lütfen tahmininizi giriniz : ");
             selected = scan.nextInt();
 
-            if (selected<0 || selected > 100 ){
+            if (selected < 0 || selected > 100) {
                 System.out.println("Lütfen 0-100 arasında bir değer giriniz.");
-                if (isWrong){
+                if (isWrong) {
                     right++;
-                    System.out.println("Çok fazla hatalı giriş yaptınız.Kalan hak : "+(5-right));
-                }else {
+                    System.out.println("Çok fazla hatalı giriş yaptınız.Kalan hak : " + (5 - right));
+                } else {
                     isWrong = true;
                     System.out.println("Bir daha hatalı girdiğinizde hakkınızdan düşecektir !");
                 }
                 continue;
             }
 
-            if (selected == number){
-                System.out.println("Tebrikler.Doğru tahmin ettiğiniz sayı : "+number);
+            if (selected == number) {
+                System.out.println("Tebrikler.Doğru tahmin ettiğiniz sayı : " + number);
                 isWin = true;
                 break;
-            }else {
+            } else {
                 wrong[right++] = selected;
                 System.out.println("Hatalı bir sayı girdiniz!");
-                if (selected<number){
-                    System.out.println(selected+" sayısı,gizli sayıdan küçüktür.");
-                }else {
-                    System.out.println(selected+" sayısı,gizli sayıdan büyüktür.");
+                if (selected < number) {
+                    System.out.println(selected + " sayısı,gizli sayıdan küçüktür.");
+                } else {
+                    System.out.println(selected + " sayısı,gizli sayıdan büyüktür.");
                 }
-                System.out.println("Kalan tahmin hakkınız : "+(5-right));
+                System.out.println("Kalan tahmin hakkınız : " + (5 - right));
             }
         }
-        if (!isWin){
+        if (!isWin) {
             System.out.println("Kaybettiniz!");
-            System.out.println("Gizli Sayı : "+number);
-            System.out.println("Tahminleriniz : "+Arrays.toString(wrong));
+            System.out.println("Gizli Sayı : " + number);
+            System.out.println("Tahminleriniz : " + Arrays.toString(wrong));
         }
     }
 }
